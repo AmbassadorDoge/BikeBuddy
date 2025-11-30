@@ -8,6 +8,7 @@ I wanted to make a device that tracks my biking stats without risking my phone, 
 
 ![Exploded view](/media/Exploded%20View.png) 
 ![Back](/media/Back.png)
+![Wiring](/media/Wiring.png)
 
 ## BOM
 | item            | price |

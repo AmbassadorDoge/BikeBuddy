@@ -14,9 +14,9 @@ I wanted to make a device that tracks my biking stats without risking my phone, 
 |-----------------|-------|
 | gps module | 6.99 |
 | pi pico 2w | 12.99 |
-| screen | 16.99 |
-| capacitive touch sensors | 6.99 |
+| screen | 4.70 |
+| capacitive touch sensors | 3.19 |
 | rocker switch | 4.99 |
 | battery | 9.99 |
-| battery charger | 5.99 |
-| **totals** | **65.93** |
+| battery charger | 2.62 |
+| **totals** | **45.47** |

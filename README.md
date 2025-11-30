@@ -12,11 +12,11 @@ I wanted to make a device that tracks my biking stats without risking my phone, 
 ## BOM
 | item            | price |
 |-----------------|-------|
-| [gps module](amazon.com/YELUFT-GY-NEO6MV2-Control-Support-Raspberry/dp/B0F2DP1189/) | 6.99 |
-| [pi pico 2w](https://www.amazon.com/Pico-Microcontroller-Bluetooth-MicroPython-CircuitPython/dp/B0DPF9N1MN/) | 12.99 |
-| [screen](amazon.com/HiLetgo-SSD1309-128x64-Display-Optional/dp/B0CFF3XNX4/) | 16.99 |
-| [capacitive touch](https://www.amazon.com/ALAMSCN-TTP223-Capacitive-Locking-Arduino/dp/B08GBYCG52/) | 6.99 |
-| [rocker switch](amazon.com/TWTADE-Rocker-Switch-Position-KCD1-1-101/dp/B0CVTRKJTV/) | 4.99 |
-| [battery](amazon.com/Qimoo-Battery-Rechargeable-Connector-Electronic/dp/B0CNLP1J5K/) | 7.59 |
-| [battery charger](https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG/) | 5.99 |
-| **totals** | **62.53 / 68.63** |
+| gps module | 6.99 |
+| pi pico 2w | 12.99 |
+| screen | 16.99 |
+| capacitive touch sensors | 6.99 |
+| rocker switch | 4.99 |
+| battery | 9.99 |
+| battery charger | 5.99 |
+| **totals** | **65.93** |

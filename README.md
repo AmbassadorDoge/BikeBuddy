@@ -20,4 +20,4 @@ I wanted to make a device that tracks my biking stats without risking my phone, 
 | rocker switch | 4.99 |
 | battery | 9.99 |
 | battery charger | 2.62 |
-| **totals** | **45.47 (53.75 w/ tax for me)** |
+| **totals** | **45.47 (54.69 w/ tax for me)** |
